@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0b0e445.chunk.css",
+    "main.js": "/static/js/main.f8f52fe2.chunk.js",
+    "main.js.map": "/static/js/main.f8f52fe2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7212e253.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7212e253.js.map",
+    "static/js/2.c1c4bf99.chunk.js": "/static/js/2.c1c4bf99.chunk.js",
+    "static/js/2.c1c4bf99.chunk.js.map": "/static/js/2.c1c4bf99.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.43f2f6b4da181555e4921b713bb31ac0.js": "/precache-manifest.43f2f6b4da181555e4921b713bb31ac0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c0b0e445.chunk.css.map": "/static/css/main.c0b0e445.chunk.css.map",
+    "static/media/Toha-map.jpg": "/static/media/Toha-map.365b130b.jpg",
+    "static/media/Toha.jpg": "/static/media/Toha.c4ee0dc2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7212e253.js",
+    "static/js/2.c1c4bf99.chunk.js",
+    "static/css/main.c0b0e445.chunk.css",
+    "static/js/main.f8f52fe2.chunk.js"
+  ]
+}
