@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webgl-3d-effect/static/css/main.d498bfb3.chunk.css",
+    "main.css": "/webgl-3d-effect/static/css/main.c0b0e445.chunk.css",
     "main.js": "/webgl-3d-effect/static/js/main.0f8e1097.chunk.js",
     "main.js.map": "/webgl-3d-effect/static/js/main.0f8e1097.chunk.js.map",
     "runtime-main.js": "/webgl-3d-effect/static/js/runtime-main.d7c8e747.js",
@@ -8,16 +8,16 @@
     "static/js/2.c1c4bf99.chunk.js": "/webgl-3d-effect/static/js/2.c1c4bf99.chunk.js",
     "static/js/2.c1c4bf99.chunk.js.map": "/webgl-3d-effect/static/js/2.c1c4bf99.chunk.js.map",
     "index.html": "/webgl-3d-effect/index.html",
-    "precache-manifest.0bd332725ddd3fb50cd22a4a5adbd57f.js": "/webgl-3d-effect/precache-manifest.0bd332725ddd3fb50cd22a4a5adbd57f.js",
+    "precache-manifest.50a738c299f94f646132135a74605b41.js": "/webgl-3d-effect/precache-manifest.50a738c299f94f646132135a74605b41.js",
     "service-worker.js": "/webgl-3d-effect/service-worker.js",
-    "static/css/main.d498bfb3.chunk.css.map": "/webgl-3d-effect/static/css/main.d498bfb3.chunk.css.map",
+    "static/css/main.c0b0e445.chunk.css.map": "/webgl-3d-effect/static/css/main.c0b0e445.chunk.css.map",
     "static/media/Toha-map.jpg": "/webgl-3d-effect/static/media/Toha-map.d2b71e8e.jpg",
     "static/media/Toha.jpg": "/webgl-3d-effect/static/media/Toha.c4ee0dc2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d7c8e747.js",
     "static/js/2.c1c4bf99.chunk.js",
-    "static/css/main.d498bfb3.chunk.css",
+    "static/css/main.c0b0e445.chunk.css",
     "static/js/main.0f8e1097.chunk.js"
   ]
 }
