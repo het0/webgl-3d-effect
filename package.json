@@ -1,8 +1,10 @@
 {
   "name": "effects",
+  "homepage": "https://het0.github.io/webgl-3d-effect",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "glslify-loader": "^2.0.0",
     "gyronorm": "^2.0.6",
     "raw-loader": "^3.1.0",
@@ -14,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
